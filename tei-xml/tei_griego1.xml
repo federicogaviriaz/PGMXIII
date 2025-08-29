@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcripción del manuscrito griego1, folio 1</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Transformación automática desde PAGE XML</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Manuscrito griego1, folio 1</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="p1.jpg"/>
+    <surface xml:id="griego1_surf_1" corresp="#griego1_fol_1" ulx="0" uly="0" lrx="1072" lry="1600">
+      <zone xml:id="griego1_line_1_01" corresp="#griego1_lb_1_01" ulx="189" uly="174" lrx="233" lry="206" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_02" corresp="#griego1_lb_1_02" ulx="189" uly="194" lrx="237" lry="226" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_03" corresp="#griego1_lb_1_03" ulx="196" uly="199" lrx="821" lry="267" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_04" corresp="#griego1_lb_1_04" ulx="212" uly="231" lrx="842" lry="299" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_05" corresp="#griego1_lb_1_05" ulx="203" uly="262" lrx="839" lry="320" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_06" corresp="#griego1_lb_1_06" ulx="207" uly="296" lrx="839" lry="349" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_07" corresp="#griego1_lb_1_07" ulx="210" uly="330" lrx="844" lry="379" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_08" corresp="#griego1_lb_1_08" ulx="208" uly="356" lrx="832" lry="405" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_09" corresp="#griego1_lb_1_09" ulx="203" uly="415" lrx="799" lry="460" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_10" corresp="#griego1_lb_1_10" ulx="221" uly="444" lrx="832" lry="487" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_11" corresp="#griego1_lb_1_11" ulx="214" uly="474" lrx="844" lry="515" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_12" corresp="#griego1_lb_1_12" ulx="214" uly="497" lrx="860" lry="538" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_13" corresp="#griego1_lb_1_13" ulx="212" uly="528" lrx="864" lry="563" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_14" corresp="#griego1_lb_1_14" ulx="210" uly="555" lrx="858" lry="588" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_15" corresp="#griego1_lb_1_15" ulx="210" uly="583" lrx="848" lry="618" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_16" corresp="#griego1_lb_1_16" ulx="214" uly="610" lrx="851" lry="649" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_17" corresp="#griego1_lb_1_17" ulx="214" uly="626" lrx="855" lry="664" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_18" corresp="#griego1_lb_1_18" ulx="225" uly="646" lrx="851" lry="701" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_19" corresp="#griego1_lb_1_19" ulx="223" uly="672" lrx="857" lry="726" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_20" corresp="#griego1_lb_1_20" ulx="214" uly="703" lrx="837" lry="754" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_21" corresp="#griego1_lb_1_21" ulx="217" uly="728" lrx="805" lry="784" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_22" corresp="#griego1_lb_1_22" ulx="214" uly="758" lrx="835" lry="815" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_23" corresp="#griego1_lb_1_23" ulx="217" uly="780" lrx="833" lry="843" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_24" corresp="#griego1_lb_1_24" ulx="219" uly="808" lrx="830" lry="870" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_25" corresp="#griego1_lb_1_25" ulx="221" uly="837" lrx="826" lry="895" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_26" corresp="#griego1_lb_1_26" ulx="223" uly="860" lrx="819" lry="926" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_27" corresp="#griego1_lb_1_27" ulx="223" uly="890" lrx="825" lry="951" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_28" corresp="#griego1_lb_1_28" ulx="226" uly="915" lrx="837" lry="981" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_29" corresp="#griego1_lb_1_29" ulx="226" uly="938" lrx="830" lry="999" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_30" corresp="#griego1_lb_1_30" ulx="226" uly="963" lrx="832" lry="1024" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_31" corresp="#griego1_lb_1_31" ulx="228" uly="994" lrx="830" lry="1047" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_32" corresp="#griego1_lb_1_32" ulx="228" uly="1021" lrx="814" lry="1074" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_33" corresp="#griego1_lb_1_33" ulx="230" uly="1046" lrx="837" lry="1102" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_34" corresp="#griego1_lb_1_34" ulx="228" uly="1074" lrx="844" lry="1127" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_35" corresp="#griego1_lb_1_35" ulx="232" uly="1101" lrx="841" lry="1152" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_36" corresp="#griego1_lb_1_36" ulx="233" uly="1126" lrx="833" lry="1179" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_37" corresp="#griego1_lb_1_37" ulx="244" uly="1152" lrx="846" lry="1201" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_38" corresp="#griego1_lb_1_38" ulx="232" uly="1180" lrx="875" lry="1224" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_39" corresp="#griego1_lb_1_39" ulx="235" uly="1203" lrx="855" lry="1249" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_40" corresp="#griego1_lb_1_40" ulx="233" uly="1228" lrx="869" lry="1279" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_41" corresp="#griego1_lb_1_41" ulx="232" uly="1251" lrx="841" lry="1304" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_42" corresp="#griego1_lb_1_42" ulx="239" uly="1278" lrx="862" lry="1333" rend="visible" rendition="Line"/>
+      <zone xml:id="griego1_line_1_43" corresp="#griego1_lb_1_43" ulx="244" uly="1310" lrx="864" lry="1360" rend="visible" rendition="Line"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="chapter">
+        <pb n="f. 1" xml:id="griego1_fol_1" facs="fotos/p1.jpg"/>
+        <p>
+          <lb n="1" xml:id="griego1_lb_1_01" facs="#griego1_line_1_01"/>θεός<lb n="2" xml:id="griego1_lb_1_02" facs="#griego1_line_1_02"/>θεοί<lb n="3" xml:id="griego1_lb_1_03" facs="#griego1_line_1_03"/>Βίβλος ἱερὰ ἐπικαλουμένη Μονὰς ἤ Ὀγδοη Μοϋσλεως<lb n="4" xml:id="griego1_lb_1_04" facs="#griego1_line_1_04"/>περὶ τοῦ ὀνόματος τοῦ ἁγίου. περιέχει δὲ ὅυτως· ἁγνον μεῖνον<lb n="5" xml:id="griego1_lb_1_05" facs="#griego1_line_1_05"/>ἡμέρας μα' <choice>
+            <sic>προψυφίσας</sic>
+            <corr>προψηφίσας</corr>
+          </choice> ἵνα εἰς τὴν σύνοδον ἐν<lb n="6" xml:id="griego1_lb_1_06" facs="#griego1_line_1_06"/>κριῷ καταντήσῃ. ἔχε δέ οἶκον ἐπίπεδον, ὃπου πρὸ<lb n="7" xml:id="griego1_lb_1_07" facs="#griego1_line_1_07"/>ἐνίαουτου ουδεις ἐτελεύτησε. ἔστω δὲ ἡ θύρα πρὸς δυσμάς<lb n="8" xml:id="griego1_lb_1_08" facs="#griego1_line_1_08"/>βλέπουσα. καὶ ἀναπηξας μέσον τοῦ οἴκου βωμὸν γέϊνον<lb n="9" xml:id="griego1_lb_1_09" facs="#griego1_line_1_09"/>δύο λευκούς ἀσινεῖς τελείους, καί λύκνος δύο <lb n="10" xml:id="griego1_lb_1_10" facs="#griego1_line_1_10"/>τεταρτημορίους πληρώσας ἐλαίου χρηστοῦ, καὶ μηκέτι<lb n="11" xml:id="griego1_lb_1_11" facs="#griego1_line_1_11"/>ἐπιχέης· εἱσελθόντος γὰρ τοῦ θεοῦ περισσότερον <choice>
+            <sic></sic>
+            <corr>ἐξαφτησονται</corr>
+          </choice>
+          <lb n="12" xml:id="griego1_lb_1_12" facs="#griego1_line_1_12"/>
+          <choice>
+            <sic>ἐξαωθησονται</sic>
+            <corr>ἐξαφθήσονται</corr>
+          </choice> ἀπηρτίστω δὲ ἡ τράπεζα τοῖς ἐπιθύμασι<lb n="13" xml:id="griego1_lb_1_13" facs="#griego1_line_1_13"/>τούτοις, συνγενικοῖς οὖσι τοῦ θεοῦ. ἐκ δὲ ταύτής <lb n="14" xml:id="griego1_lb_1_14" facs="#griego1_line_1_14"/>τῆς βίβλου Ἑρμῆς κλέψας τὰ ἐπιθύματα ζ' προσεφώνησεν<lb n="15" xml:id="griego1_lb_1_15" facs="#griego1_line_1_15"/>ἑαυτοῦ ἱερᾷ βύβλῳ ἐπικαλουμένῃ `Πτέρυγι`. τοῦ μὲν<lb n="16" xml:id="griego1_lb_1_16" facs="#griego1_line_1_16"/>Κρόνον στυραξ (ἔστιν γαρ βαρὺς καὶ εὐώδης), τοῦ δὲ Διὸς<lb n="17" xml:id="griego1_lb_1_17" facs="#griego1_line_1_17"/>μαλάωθρον, τοῦ δὲ Ἄρεως κόστος, τοῦ δὲ Ἡλίου λίβανον,<lb n="18" xml:id="griego1_lb_1_18" facs="#griego1_line_1_18"/>
+          <lb n="19" xml:id="griego1_lb_1_19" facs="#griego1_line_1_19"/>
+          <lb n="20" xml:id="griego1_lb_1_20" facs="#griego1_line_1_20"/>
+          <lb n="21" xml:id="griego1_lb_1_21" facs="#griego1_line_1_21"/>
+          <lb n="22" xml:id="griego1_lb_1_22" facs="#griego1_line_1_22"/>
+          <lb n="23" xml:id="griego1_lb_1_23" facs="#griego1_line_1_23"/>
+          <lb n="24" xml:id="griego1_lb_1_24" facs="#griego1_line_1_24"/>
+          <lb n="25" xml:id="griego1_lb_1_25" facs="#griego1_line_1_25"/>
+          <lb n="26" xml:id="griego1_lb_1_26" facs="#griego1_line_1_26"/>
+          <lb n="27" xml:id="griego1_lb_1_27" facs="#griego1_line_1_27"/>
+          <lb n="28" xml:id="griego1_lb_1_28" facs="#griego1_line_1_28"/>
+          <lb n="29" xml:id="griego1_lb_1_29" facs="#griego1_line_1_29"/>
+          <lb n="30" xml:id="griego1_lb_1_30" facs="#griego1_line_1_30"/>
+          <lb n="31" xml:id="griego1_lb_1_31" facs="#griego1_line_1_31"/>
+          <lb n="32" xml:id="griego1_lb_1_32" facs="#griego1_line_1_32"/>
+          <lb n="33" xml:id="griego1_lb_1_33" facs="#griego1_line_1_33"/>
+          <lb n="34" xml:id="griego1_lb_1_34" facs="#griego1_line_1_34"/>
+          <lb n="35" xml:id="griego1_lb_1_35" facs="#griego1_line_1_35"/>
+          <lb n="36" xml:id="griego1_lb_1_36" facs="#griego1_line_1_36"/>
+          <lb n="37" xml:id="griego1_lb_1_37" facs="#griego1_line_1_37"/>
+          <lb n="38" xml:id="griego1_lb_1_38" facs="#griego1_line_1_38"/>
+          <lb n="39" xml:id="griego1_lb_1_39" facs="#griego1_line_1_39"/>
+          <lb n="40" xml:id="griego1_lb_1_40" facs="#griego1_line_1_40"/>
+          <lb n="41" xml:id="griego1_lb_1_41" facs="#griego1_line_1_41"/>
+          <lb n="42" xml:id="griego1_lb_1_42" facs="#griego1_line_1_42"/>
+          <lb n="43" xml:id="griego1_lb_1_43" facs="#griego1_line_1_43"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
