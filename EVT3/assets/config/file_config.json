@@ -1,0 +1,26 @@
+{
+	"editionUrls": [
+		
+		"assets/data/teiGriego1.xml"
+		
+	],
+	"editionImagesSource": {
+		"manifest": {
+			"value": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0730/manifest.json",
+			"enable": false
+		},
+		"graphics": {
+			"value": "assets/data/images",
+			"enable": false
+		}
+	},
+	"imagesFolderUrls": {
+		"single": "assets/data/images/single/",
+		"double": "assets/data/images/double/"
+	},
+	"configurationUrls": {
+		"edition": "assets/config/edition_config_teiGriego1.json",
+		"ui": "assets/config/ui_config_teiGriego1.json",
+		"editorialConventions": "assets/config/editorial_conventions_config.json"
+	}
+}
