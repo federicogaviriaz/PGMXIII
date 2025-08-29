@@ -1,0 +1,3 @@
+[submodule "evt-viewer"]
+	path = evt-viewer
+	url = https://github.com/evt-project/evt-viewer
